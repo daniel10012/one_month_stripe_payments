@@ -14,7 +14,8 @@ gem 'bootstrap-sass'
 
 gem 'stripe', :git => 'https://github.com/stripe/stripe-ruby'
 
-gem "figaro"
+#Figaro gem to manage the keys
+gem 'figaro'
 
 gem 'sass-rails', '~> 4.0.3'
 # Use Uglifier as compressor for JavaScript assets
